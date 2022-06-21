@@ -2,7 +2,7 @@
     Title: pytech_queries.py
     Author: Tanner Maine
     Date: 20 June 2022
-    Description: Querying By Student ID.
+    Description: Building Student collection to display student records.
 """
 from pymongo import MongoClient
 
