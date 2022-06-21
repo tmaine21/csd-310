@@ -1,3 +1,9 @@
+""" 
+    Title: pytech_queries.py
+    Author: Tanner Maine
+    Date: 20 June 2022
+    Description: Querying By Student ID.
+"""
 from pymongo import MongoClient
 
 url = "mongodb+srv://admin:admin@cluster0.gricelu.mongodb.net/?retryWrites=true&w=majority"
